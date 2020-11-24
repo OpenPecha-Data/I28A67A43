@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W24770
   title: བྱམས་ཆོས་འབྱེད་རྣམ་གཉིས་ཀྱི་འགྲེལ་པ།
-  volume: ''
+  volume:
+    a065b867303143fca3e95ddfab817294:
+      image_group_id: I1KG12617
+      title: Volume 1 of byams chos 'byed rnam gnyis kyi 'grel pa/
+      volume_number: 1
+      total_pages: 98
   author: ''
+ebook_metadata:
+  title: བྱམས་ཆོས་འབྱེད་རྣམ་གཉིས་ཀྱི་འགྲེལ་པ།
+  author: ''
+  sku: P007013
+  cover: cover.jpg
+  layers:
+  - pagination

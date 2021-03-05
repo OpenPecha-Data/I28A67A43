@@ -1,15 +1,16 @@
-id: opecha:P007013
+id: P007013
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W24770
   title: བྱམས་ཆོས་འབྱེད་རྣམ་གཉིས་ཀྱི་འགྲེལ་པ།
-  volume:
+  author: ''
+  volumes:
     a065b867303143fca3e95ddfab817294:
       image_group_id: I1KG12617
       title: Volume 1 of byams chos 'byed rnam gnyis kyi 'grel pa/
       volume_number: 1
       total_pages: 98
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བྱམས་ཆོས་འབྱེད་རྣམ་གཉིས་ཀྱི་འགྲེལ་པ།
   author: ''
